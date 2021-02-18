@@ -1,0 +1,15 @@
+git commit 
+
+git add 
+
+mkdir 
+
+git config --global user.name <cargullo> 
+
+git config --global user.email <charmainecargullo@yahoo.com> 
+
+git config --help 
+
+git init 
+
+git add <activity> 
